@@ -1,0 +1,14 @@
+Asset-Quellen in diesem Paket: 
+
+- /obj Objektmodelle - Lizenz: CC0
+  von Kay Lousberg, https://kaylousberg.itch.io/kaykit-dungeon
+  KayKit - Dungeon Pack
+
+- Schriftart OLDSH___.TTF	- Lizenz: "100% frei" (?)
+  von HPLHS Prop Fonts / Andrew H. Leman, https://www.dafont.com/oldstyle-hplhs.font
+
+- GUI 1+2.png - Lizenz: CC0
+  von Melle, https://opengameart.org/content/fantasy-gui-0
+  (neu in eine Textur zusammengepackt)
+
+

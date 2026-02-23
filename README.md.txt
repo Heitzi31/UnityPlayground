@@ -1,0 +1,1 @@
+The Playground consists of all of my projects from the university course Game Engineering. This was my first time ever working with a Game Engine, so most of the Assets were provided by the professor. Every project focusses on a different part of a game (like movement, interaction, lighting) aswell as the important features of the Unity Engine. The project-names reflect this. 
