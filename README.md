@@ -1,1 +1,1 @@
-All of my projects from the university course Game Engineering. This was my first time ever working with a Game Engine, so most of the Assets were provided by the professor.
+All of my Unity-projects from the university course Game Engineering. This was my first time ever working with a Game Engine, so most of the Assets were provided by the professor. Each folder has a little game focussing on different aspects of a game or the Unity-Engine
